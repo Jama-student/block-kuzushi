@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(54,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(55,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(56,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(57,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(119,17): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(120,17): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(129,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(129,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(129,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(129,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(151,19): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(152,17): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(153,18): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.cpp(157,23): error C4576: a parenthesized type followed by an initializer list is a non-standard explicit type conversion syntax

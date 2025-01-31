@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(54,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(55,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(56,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(57,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(129,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(129,53): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(129,79): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\jamaf\source\repos\Block Kuzushi\Block Kuzushi\main.c(129,119): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  Block Kuzushi.vcxproj -> C:\Users\jamaf\source\repos\Block Kuzushi\x64\Debug\Block Kuzushi.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
